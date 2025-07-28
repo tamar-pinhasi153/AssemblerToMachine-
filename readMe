@@ -1,0 +1,9 @@
+Hello,
+We are submitting the project to which we devoted a lot of time and effort.
+To prevent possible errors, we took into account a number of assumptions and limitations during the development of the program.
+These included:
+*We defined 3 external variables that are table counters.
+*In the coding process within the functions, we assumed that there were no errors and that the word was not empty, since any error would have prevented the function from executing.
+*During the macro deployment phase, when we issued an error and wrote the line number of the error, we also included comment lines and empty lines.
+*For convenience, we divided most of the files according to the use of the struct, which means that all functions that use the same struct will be in the same file
+Best regards,
